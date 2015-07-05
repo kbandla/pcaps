@@ -1,5 +1,4 @@
 # pcaps
-
 A collection of pcaps for testing
 
 ## Filenames
@@ -12,5 +11,5 @@ Example: `dhcp_<something>.pcap`
 * Avoid uploading large pcaps
 
 ## References
-* [Packet Captures | Chris Sanders](chrissanders.org/packet-captures/)
+* [Packet Captures | Chris Sanders](http://chrissanders.org/packet-captures/)
 * [SampleCaptures - The Wireshark Wiki](https://wiki.wireshark.org/SampleCaptures)
